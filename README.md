@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Develhope <br>💻 Junior Fullstack Developer <br>🛠 Passionate about Front-end <br>⚛ Exploring the depths of React <br>🎨 Fascinated by everything front-end <br>📝 Started my journey as a copywriter—now crafting code instead of words
+🚀 Develhope <br>💻 Junior Fullstack Developer <br>🛠 Passionate about Front-end <br>⚛ Exploring the depths of React <br>🎨 Fascinated by every books <br>📝 Started my journey as a copywriter—now crafting code instead of words
 
 
 ## 🌐 Socials:
